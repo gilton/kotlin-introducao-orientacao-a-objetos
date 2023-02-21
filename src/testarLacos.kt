@@ -1,6 +1,4 @@
-fun testarLacos() {
-    println("\n*** TESTAR LAÇOS ***")
-
+fun testaLacos() {
     var i = 0
     while (i < 5) {
         val titular: String = "Alex $i"
